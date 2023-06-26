@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 ### Languages and Tools 
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
    <hr>
 </p>
