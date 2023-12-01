@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Gabriel Costa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
 
-- I am a student of Systems Analysis and Development
-- I'm currently studying BackEnd development with Django and Python.
+- I am a student of Networking and Security
+
 
 
 <!---
