@@ -2,6 +2,13 @@
 
 - I am a student of Computer Networking and Information Security
 
+### Languages and Tools 
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+   <hr>
+</p>
+
 <!---
 Hykato-M3G/README is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
