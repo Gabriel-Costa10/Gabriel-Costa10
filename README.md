@@ -2,7 +2,7 @@
 
 - I am a student of Computer Networking and Information Security
 
-### Languages and Tools 
+<h2 align="center" >Languages and Tools </h2>
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
