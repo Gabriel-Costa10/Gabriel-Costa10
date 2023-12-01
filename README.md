@@ -2,8 +2,6 @@
 
 - I am a student of Computer Networking and Information Security
 
-<h2 align="center"> Tools & Tecnologies  </h2>
-
 <!---
 Hykato-M3G/README is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
